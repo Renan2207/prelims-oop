@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product>
+	<soap_products>
+		<name>
+			 <brand>Irish Spring</brand>
+			 <type>Bar Soap</type>
+			 <scent>Original</scent>
+			<size>8 oz</size>
+			<price>₱119
+       </price>
+	    </name>
+		    <ingredients>
+			<ingredient>Sodium Tallowate</ingredient>
+			<ingredient>Sodium Cocoate</ingredient>
+			<ingredient>Fragrance</ingredient>
+			<ingredient>Triclocarban</ingredient>
+			<ingredient>Tetrasodium EDTA</ingredient>
+		</ingredients>
+		<properties>
+			<property>Cleans and deodorizes</property>
+			<property>Long-lasting scent</property>
+			<property>Gentle on skin</property>
+			<property>Leaves skin feeling refreshed</property>
+			<property>Helps keep you feeling clean and fresh all day</property>
+		</properties>
+		<Warnings>
+			<Warning>Keep out of reach of children.</Warning>
+			<Warning>Avoid contact with eyes.</Warning>
+			<Warning>If swallowed, drink plenty of water and seek medical advice.</Warning>
+			<Warning>Do not use on aluminum or painted surfaces.</Warning>
+			<Warning>For best results, use within 6 months of opening.</Warning>
+		</Warnings>
+		<availability>
+			<store>All Puregold</store>
+			<store>Selected Sari- sari Store</store>
+			<store>All RCS Store </store>
+			<store>All Waltermart</store>
+			<store>All Redcamia</store>
+		 </availability>
+	    </soap_products>
+	   <soap_products>
+		<name>
+			<brand>Palmolive</brand>
+			<type>Bar Soap</type>
+			<scent>lavender</scent>
+			<size>4 oz</size>
+			<price>₱27.10</price>
+		</name>
+		<ingredients>
+			<ingredient>Sodium Palmate</ingredient>
+			<ingredient>Sodium Cocoate</ingredient>
+			<ingredient>water</ingredient>
+			<ingredient>Nonfat Dry Milk</ingredient>
+			<ingredient>Aloe Barbadensis Leaf Extract</ingredient>
+		</ingredients>
+		<properties>
+			<property>for hands, body and face</property>
+			<property>Long-lasting scent</property>
+			<property>Solid soap bars such as Palmolive Moisture Care</property>
+			<property>Leaves skin feeling refreshed</property>
+			<property>Helps keep you feeling clean and fresh all day</property>
+		</properties>
+		<Warnings>
+			<Warning>Do not use on broken skin..</Warning>
+			<Warning>Ask a doctor before use if you have kidney disease.</Warning>
+			<Warning>Stop use if rash or irritation occurs.</Warning>
+			<Warning>Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.</Warning>
+			<Warning>For best results, use within 6 months of opening.</Warning>
+		</Warnings>
+		<availability>
+			<store>All Puregold</store>
+			<store>Selected Sari- sari Store</store>
+			<store>All RCS Store </store>
+			<store>All Waltermart</store>
+			<store>All Redcamia</store>
+		</availability>
+	</soap_products>
+	<soap_products>
+		<name>
+			<brand>Safe guard</brand>
+			<type>Bar Soap</type>
+			<scent>Cool menthol</scent>
+			<size>8oz</size>
+			<price>₱105</price>
+		</name>
+		<ingredients>
+			<ingredient>sodium tallowate</ingredient>
+			<ingredient>sodium palmate</ingredient>
+			<ingredient>sodium palm kernelate</ingredient>
+			<ingredient>sodium chloride</ingredient>
+			<ingredient>coconut acid</ingredient>
+		</ingredients>
+		<properties>
+			<property>soap product that can clean skin and rid the body of dirt and germs</property>
+			<property>a proven antibacterial agent that is able to eliminate up to 99% of bacteria on the skin.</property>
+			<property>To provide extra antibacterial properties</property>
+			<property>Leaves skin feeling refreshed</property>
+			<property>Safeguard Antibacterial Soap contains Triclocarban (1. 2%)</property>
+		</properties>
+		<Warnings>
+			<Warning>Do not use this product on infants under 6 months of age.</Warning>
+			<Warning>When using this product avoid contact with eyes. If this happens, rinse thoroughly with water.</Warning>
+			<Warning>Stop use if rash or irritation occurs.</Warning>
+			<Warning>Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.</Warning>
+			<Warning>Keep out of reach of children, except under adult supervision.</Warning>
+		</Warnings>
+		<availability>
+			<store>All Puregold</store>
+			<store>Selected Sari- sari Store</store>
+			<store>All RCS Store </store>
+			<store>All Waltermart</store>
+			<store>All Redcamia</store>
+		</availability>
+	</soap_products>
+	<soap_products>
+		<name>
+			<brand>Dove</brand>
+			<type>Bar Soap</type>
+			<scent>Coconut milk</scent>
+			<size>6oz</size>
+			<price>₱130</price>
+		</name>
+		<ingredients>
+			<ingredient>Cocamidopropyl Betaine</ingredient>
+			<ingredient>Sodium Isethionate</ingredient>
+			<ingredient>Tetrasodium Etidronate</ingredient>
+			<ingredient>sodium chloride</ingredient>
+			<ingredient>water, fragrance</ingredient>
+		</ingredients>
+		<properties>
+			<property>no parabens or sulfate cleansers.</property>
+			<property>is also pH-balanced to help skin retain natural moisture rather than stripping it away</property>
+			<property>To provide extra antibacterial properties</property>
+			<property>Leaves skin feeling refreshed</property>
+			<property>Made with a plant-based cleanser this white Beauty Bar even helps replenish nutrients lost during the cleansing process</property>
+		</properties>
+		<Warnings>
+			<Warning>Do not use this product on infants under 6 months of age.</Warning>
+			<Warning>External use only</Warning>
+			<Warning>Stop use if rash or irritation occurs.</Warning>
+			<Warning>Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.</Warning>
+			<Warning>Keep out of reach of children, except under adult supervision..</Warning>
+		</Warnings>
+		<availability>
+			<store>All Puregold</store>
+			<store>Selected Sari- sari Store</store>
+			<store>All RCS Store </store>
+			<store>All Waltermart</store>
+			<store>All Redcamia</store>
+		</availability>
+	</soap_products>
+	<soap_products>
+		<name>
+			<brand>Olay</brand>
+			<type>Bar Soap</type>
+			<scent>Original</scent>
+			<size>5oz</size>
+			<price>₱133</price>
+		</name>
+		<ingredients>
+			<ingredient>Sodium Cocoyl</ingredient>
+			<ingredient>Stearic Acid</ingredient>
+			<ingredient>Coconut Acid</ingredient>
+			<ingredient>Sodium Cocoate</ingredient>
+			<ingredient>Butyrospermum Parkii (Shea) Butter</ingredient>
+		</ingredients>
+		<properties>
+			<property>no parabens or sulfate cleansers.</property>
+			<property>is also pH-balanced to help skin retain natural moisture rather than stripping it away</property>
+			<property>To provide extra antibacterial properties</property>
+			<property>Leaves skin feeling refreshed</property>
+			<property>Made with a plant-based cleanser this white Beauty Bar even helps replenish nutrients lost during the cleansing process</property>
+		</properties>
+		<Warnings>
+			<Warning>Do not use under 6 months of age.</Warning>
+			<Warning>External use only</Warning>
+			<Warning>Stop use if rash or irritation occurs.</Warning>
+			<Warning>Oral ingestion may result in mild gastrointestinal irritation with nausea</Warning>
+			<Warning>Oral ingestion may result in mild gastrointestinal irritation with vomiting or diarrhea.</Warning>
+		</Warnings>
+		<availability>
+			<store>All Puregold</store>
+			<store>Selected Sari- sari Store</store>
+			<store>All RCS Store </store>
+			<store>All Waltermart</store>
+			<store>All Redcamia</store>
+		</availability>
+	</soap_products>
+</product>
