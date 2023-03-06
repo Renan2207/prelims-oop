@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<product>
-	<soap_products>
+<soaps>
+    <product>
+	<products>
+	    <soap_products>
 		<name>
-			 <brand>Irish Spring</brand>
-			 <type>Bar Soap</type>
-			 <scent>Original</scent>
+			<brand>Irish Spring</brand>
+			<type>Bar Soap</type>
+			<scent>Original</scent>
 			<size>8 oz</size>
 			<price>₱119
-       </price>
-	    </name>
+                </price>
+	        </name>
 		    <ingredients>
 			<ingredient>Sodium Tallowate</ingredient>
 			<ingredient>Sodium Cocoate</ingredient>
@@ -185,5 +187,7 @@
 			<store>All Waltermart</store>
 			<store>All Redcamia</store>
 		</availability>
-	</soap_products>
-</product>
+	  </soap_products>
+       </products>
+   </product>	    
+</soaps>	    
